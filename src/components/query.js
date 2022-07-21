@@ -25,6 +25,7 @@ function Query({notes,handleDelete}) {
     <div>
         <ArrowBack size={'2rem'}/>
         <Search handleSearch={(e)=> queried(e)}/>
+        <span className='res'>Result:</span>
         <div className='notes-list'>
              <Notes notes={queriedNotes} handleDelete={handleDelete}/>
         </div>

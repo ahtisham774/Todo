@@ -189,3 +189,7 @@ textarea:focus{
     background-repeat:no-repeat;
     background-size:contain;
 }
+.res{
+    font-size: 35px;
+    font-variant: small-caps;
+}
