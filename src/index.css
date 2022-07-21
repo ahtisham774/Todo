@@ -137,7 +137,7 @@ textarea:focus{
 .dark-mode .search-icon ,.dark-mode, .remain{
     color:#1d1d1b;
 }
-.dark-mode .add,.dark-mode .back,.dark-mode .links {
+.dark-mode .add,.dark-mode .back,.dark-mode .links ,.dark-mode .res {
     color:#fafafa;
 }
 
